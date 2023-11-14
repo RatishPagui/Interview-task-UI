@@ -1,0 +1,42 @@
+.main-footer {
+    font-family: 'Arial', sans-serif;
+    padding: 20px;
+}
+
+.footer-row {
+    display: flex;
+    padding: 0 20px;
+    margin-bottom: 40px;
+}
+
+.footer-bootom {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    color: rgb(173, 171, 171);
+}
+
+.footer-bootom-left {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.footer-bootom i {
+    margin: 7px;
+}
+
+.footer-Header {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.footer-text {
+    font-size: 14px;
+    font-weight: bold;
+    color: #3a3a99
+}
+
+.footer-text-content{
+    margin: 7px 0;
+}

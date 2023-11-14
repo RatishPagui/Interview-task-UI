@@ -1,0 +1,74 @@
+.sidebar {
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #1f1f55;
+    color: white;
+  }
+  
+  .logo {
+    text-align: center;
+    font-size: 20px;
+    background-color: #25255c;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .logo div{
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 10px;
+    color: #5757a7;
+  }
+
+  .sidebar-text{
+    margin: 20px;
+    font-size: 14px;
+    color: rgb(211, 210, 210);
+    font-weight: bold;
+  }
+
+  .sidebar-text i {
+    margin-right: 15px;
+  }
+
+  .logo span{
+    color: white;
+  }
+
+  .sidebar-text1{
+    margin: 20px;
+    font-size: 14px;
+    color: rgb(211, 210, 210);
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+  }
+
+  .workdot1{
+    width: 7px;
+    height: 7px;
+    background-color: rgb(2, 2, 171);
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+
+  .workdot2{
+    width: 7px;
+    height: 7px;
+    background-color: rgb(1, 156, 1);
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+
+  .workdot3{
+    width: 7px;
+    height: 7px;
+    background-color: rgb(163, 81, 163);
+    border-radius: 50%;
+    margin-right: 10px;
+  }

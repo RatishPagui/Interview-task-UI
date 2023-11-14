@@ -1,0 +1,55 @@
+.main-outer-div{
+    display: flex;
+    padding: 5px 20px;
+}
+
+.card1 {
+background-color: white;
+    overflow: hidden;
+    padding: 10px;
+    margin: 20px 20px 0 20px;
+    width: 370px;
+    height: 150px;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .top-section {
+    display: flex;
+  }
+  
+  .left-section {
+    padding: 10px;
+  }
+  
+  .circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: #73e6ab;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .circle img {
+    width: 50%;
+    height: 50%;
+  }
+  
+  .right-section {
+    flex: 2;
+    padding: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+  }
+  
+  .bottom-section {
+    padding: 10px;
+    font-size: 13px;
+    font-weight: bold;
+    color: rgb(174, 173, 173);
+  }
+  
